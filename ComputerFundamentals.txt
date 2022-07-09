@@ -1,0 +1,236 @@
+
+ComputerFundamentals
+**********************************************************************************
+[A]Input Devices
+**********************************************************************************
+
+
+1. KeyBoard:
+------------
+- it is a panel of keys that operates a computer or typewriter.
+- it is a set of keys also known as " QWERTY " Keyboard
+
+2. Mouse:
+-----------
+-it is a pointing Device
+-cursor - control device
+- mouse having three things:
+	- Left Click
+	- RightClick
+	- Scroller(Wheel)
+Advantages:
+1. Easy to Use
+2. Not Very Expensive
+3. Move your cusror faster than use of arrow key.
+-------------------------------------------------------------------------
+
+3. Microphone:
+--------------
+
+- it is an important input device to input sound that we can store in a digital form.
+
+Use: Transfer the data from one location to another location(Communication)
+---> Multimedia Presentation
+---> Music & Mixing and Other Sound related Proccess.
+
+--------------------------------------------------------------------------
+
+4. Touch Screen:
+----------------
+
+- Touch screen is a Computer display which is used as an input device.
+- these screens are very sensitive to the pressure, user can interact with your computer by touching on some picture, buttons etc...
+- there are three types of screen
+	1. Resistive
+	2. SurfaceWave
+	3. Capacitive
+--------------------------------------------------------------------------
+
+5. Light Pen:
+---------------
+
+- It is pointing device which is similar to pen.
+- you can select Menu , draw Pictures on Monitor/Screen.
+
+- it consisting of Photocell(1/100000000 seconds) and optical system which is placed in a small tube.
+- whenever you move your pen on screen or when you click on some buttons provided on your pemn, photocell will sense the location on screen and according to that it will send the signals to CPU and CPU will start proccessing for the same.
+
+6. WebCamera:
+--------------
+-it is an input because it captures video images of the scene infront of screen.
+we can use inbuilt camera in laptop or we can connect with the help of USB cale.
+
+
+
+**************************************************************************************
+[B] OUTPUT DEVICES
+**************************************************************************************
+
+Main Role: Require to provide an Output
+
+1. Monitor: 
+------------
+
+- VDU (Vertual Display Unit)
+- trying to display the image in form of Pixeles( 1px=0.0264583 cm  OR 1px= 0.0254 m).
+	for eg: 10MegaPixel= 10 X 10E6 X Pixel
+			   = 10 X1000000 X Pixel
+			   = 10000000 x 0.0264583 cm
+- There are several types of Displays
+
+<1>CRT Display (Cathod Ray Tube).
+	- numbers of characters displayed on screen with the help of pixels.
+	- per screen you can display 25 lines .
+	- in one line you can display 80 characters.
+	Disadvantages:
+	- Big in Size.
+	- High power consumptions.
+
+<2> Flat Panel Display.
+	- Light weight monitors which you can hang on the wall.
+	- types are
+	(a) Emmisive Display :
+		-converts electrical energy into lights
+		- Eg: LED (Light Emmiting Diode)
+	(2) Non- Emissive Display
+		- use optical effects to convert sunlight or light from some other sources into graphics 
+		- Eg: LCD (Liquid Crystal Display)
+
+-------------------------------------------------------------------------------------------------
+
+2. Printer:
+-----------
+to print the data , when we print it is providing an output.
+
+1. Impact Printers:
+- it prints characters by stricking then on ribbon and then it is presses on paper
+- Features & Disadvantages:
+	-> it is very noisy
+	-> it require physical contact on paper to print image
+	-> very low consumable cost 
+	-> usefull for bulk printing
+	-> there are two types of Impact Printer
+	(a) Character Printer
+	(B) Line Printer
+	
+	(a) Character Printer: prints one character at a time
+		eg: DMP(Dot Matrix Printer), Daisy Wheel.
+	(b) Line Printer: Prints one line at a time
+		eg: Drum Printer, Chain Printer
+
+2. Non- Impact Printers:
+
+- it prints the characters on paper but without any ribbon.
+- it print full papge at a time. thats why it is also called as full page printer
+- There are two types 
+	1. Laser Printer
+	2. InkJet Printer
+	
+	1. LASER PRINTER:
+	- use laser light to produce dots needed to form the characters to be printed on page.
+	- very high in speed, high quality, supports different graphics and fonts
+	
+	2. INKJET PRINTER:
+	- this is based on new technology
+	- it print characters by spraying small dot ink on paper and produces high quality output
+------------------------------------------------------------------------------------------------
+
+3. Speaker:
+------------
+
+- it is an output device which generates sounds when you connect with computer or any oter device.
+- it receives sound data from computer and converts it into sound waves and you will get audio as an output.
+-----------------------------------------------------------------------------------------------
+
+4. CD:
+------------
+- it known as Compact Disc
+- used to store Limited amount data
+
+------------------------------------------------------------------------------------------------
+
+5. DVD:
+-------------
+- it is known as Digital Versatile Disc
+- it store huge amount of data( approximately 4.7 GB)
+- store audio and Video Files
+- with the help of DVD player you can transfer the data to your TV and Speakers.
+
+***************************************************************************************************************
+
+[C] STORAGE DEVICE:
+**********************************************************************************************
+
+1. FLASH MEMORY:
+----------------
+- it is long life and non volatile strong chip which is widely used in embeded system.
+- it can store data and info even if the power is off.
+
+
+2. OPTICAL DISK:
+---------------
+- usually use to write and read data.
+- encodes your binary information in the form of some special material and store data in that.
+	eg: External Hard Drive
+
+
+3. LOACL DRIVES:
+----------------
+- we can say that it is a local disk as well
+- Hard Drive(HDD) or SSD(Solid State Drive) which is connected to your computer
+
+Primary Drive is C:, you can also divide themm into D:, E:, F: drive etc...
+
+
+4. Magnetic Tape:
+-----------------
+- you can write data on single side.
+- you can do only forward and reverse operations with that
+- store limited amount of data
+- eg:Audio Cassate
+
+
+
+*************************************************************************************
+[D] PROCCESSING DEVICES
+*************************************************************************************
+
+1. MOTHER BOARD:
+----------------
+
+- It is also known as MB. Main Board , Main Circuit Board.
+- Biggest Board in Computer System.
+- it allows power and also communicate betwween CPU , RAM and other components as well.
+
+
+2. PROCESSOR:
+--------------
+- It called as CPU
+- logical circuit which respond to the basic instructions which executes on your computer 
+- you can see CPU as IC (Integrated Ciucits) chip in a computer, which is responsible for interpreting most of your computer command
+- elements of CPU are
+	1. ALU(Arithmatic and Logical Unit)
+	2. CU (Control Unit)
+	3. Chache Memory
+	4. Registers(Temp Storage)
+
+3. RAM:
+--------------
+
+- it is known as Random Access Memory
+- it is a hardwear in computer computing device  OS, diffrent applications (MS word, Ms Powerpoint, Media Player, Browser) which uses data to load applications
+- RAM is Volatile Memory
+
+
+4. ROM:
+---------------
+- it is known as Read Only Memory
+- it is a memory device or storage medium which stores information permanently.
+- it is NON-VOLATILE Memory
+
+
+5. Switched Mode Power Supply(SMPS):
+------------------------------------
+- it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively
+- SMPS: transfer power from DC to AC or AC to DC
+
