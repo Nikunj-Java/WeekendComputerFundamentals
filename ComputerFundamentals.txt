@@ -9,6 +9,7 @@ ComputerFundamentals
 ------------
 - it is a panel of keys that operates a computer or typewriter.
 - it is a set of keys also known as " QWERTY " Keyboard
+- key boards are available in market with different sizes and keys
 
 2. Mouse:
 -----------
@@ -44,6 +45,40 @@ Use: Transfer the data from one location to another location(Communication)
 	1. Resistive
 	2. SurfaceWave
 	3. Capacitive
+
+Difference Between Screens
+
+what is Resistive Touch?
+	- pressure as input is called as resistive touch
+	- it is made up of several layers of flexile plastic and glass, the front layer is scratch resistant 		plastic and second layer is usually glass.
+	- these bot are coated with conductive material. when someone applies pressure to the panel, the 		resistance is measured between the two layers highlighting where the point of contact is on the 		screen.
+what is  Capcitive Touch?
+	- it uses electrical properties of the human body as input.
+	- when touchhed with a finger, a small electrical charge is drawn to the point of contact.
+	- it will allow the display to detect where it has receive as input.
+	- The result is a display that can detect lighter touches and with greater accuracy than resistive 	  	  touchscreen
+
+Which one is better?
+
+- capacitive technology is more rapid, and it has great evolution in recent years
+- capacitive touch screens are improving in both performance and cost.
+
+
+what is SurfaceAcoustic Wave Touch Screen(SAW)?
+-it uses Ultasonic waves to detect the touch input.
+-on tapping or touching the display interface , the ultrasonic waves in that area are disturbed, allowing the touch screen's electronic interface to detect th position of the touch command
+
+Benifits:
+1. they are limited to using a bare finger for input
+2. they don't require a conductive object to reguster a touch
+3. Unlike Capacitive touch screens SAW touche Screens can be operated with any object that can absorb Ultrasonic waves which includes things like Heavily gloved Hands.
+
+Disadvantages:
+1. SAW screens are not recommended for outdoor environment as they can be affected y large amount of dirt, dust, water droplets .otherwise they provide simple , attarctive  interface for touch for indoor applications
+
+eg: Metro Railway Stations or Automatic Ticket Machine uses this technology
+
+
 --------------------------------------------------------------------------
 
 5. Light Pen:
@@ -54,6 +89,14 @@ Use: Transfer the data from one location to another location(Communication)
 
 - it consisting of Photocell(1/100000000 seconds) and optical system which is placed in a small tube.
 - whenever you move your pen on screen or when you click on some buttons provided on your pemn, photocell will sense the location on screen and according to that it will send the signals to CPU and CPU will start proccessing for the same.
+
+- History: 
+	-It was originally developed inbetween 1955-1960s 
+	-they become more commnly used with Graphics terminals like IBM 2250.
+	-later on in 1980s light pen was available to home computers
+	-light pen name its self refers to a pointing input device
+	-this gave an idea or birth to stylux(pen) or Digital pen
+
 
 6. WebCamera:
 --------------
@@ -103,6 +146,7 @@ Main Role: Require to provide an Output
 to print the data , when we print it is providing an output.
 
 1. Impact Printers:
+--------------------
 - it prints characters by stricking then on ribbon and then it is presses on paper
 - Features & Disadvantages:
 	-> it is very noisy
@@ -119,7 +163,7 @@ to print the data , when we print it is providing an output.
 		eg: Drum Printer, Chain Printer
 
 2. Non- Impact Printers:
-
+------------------------
 - it prints the characters on paper but without any ribbon.
 - it print full papge at a time. thats why it is also called as full page printer
 - There are two types 
@@ -165,7 +209,13 @@ to print the data , when we print it is providing an output.
 ----------------
 - it is long life and non volatile strong chip which is widely used in embeded system.
 - it can store data and info even if the power is off.
-
+- it is basically storage
+- it is a type of non-volatile memory
+- it erase the dat in units called blocks and rewrites the data at the byte level
+- it is also known as EEPROM- ELECTRONICALLY ERASABLE PROGRAMMABLE READ ONLY MEMORY
+- in case of PENDRIVE(USB Drive) EEPROM is a type of data memory device using an electronic device to erase or   write digital data in large blocks
+- it works on MOSFET- it is a transistor used for amplifying or switching electronic signals
+- MOSFET- Metal Oxide Semiconductor Field Effect Transistor
 
 2. OPTICAL DISK:
 ---------------
@@ -210,8 +260,41 @@ Primary Drive is C:, you can also divide themm into D:, E:, F: drive etc...
 - you can see CPU as IC (Integrated Ciucits) chip in a computer, which is responsible for interpreting most of your computer command
 - elements of CPU are
 	1. ALU(Arithmatic and Logical Unit)
+		- ALU is a main component of Central Processing Unit(CPU)
+		- its main function is to perform arithmatic and logic operations.
+		- it is also known as Integer Unit(IU) which is IC within CPU and GPU which is the last 		  component to perform calculations in the processor
+		- it obeys Logical Gates and Its Values like XOR,OR,AND and NOT operations in  LOGIC GATES
 	2. CU (Control Unit)
-	3. Chache Memory
+		- it controls the operations of all parts of the computer but doesn't carry out any actual 		  data processing operation
+		- it is responsible for controlling data transfer
+		- it manages all the units of computer
+		- it communicate with input/output devices for transfer of data or result from storage
+		- it don't store or process data
+	3. Cache Memory
+		- Cache memory is high speed memory, which is small in size but faster than the main memory			(RAM).
+		- The CPU can access it more quckly than the primary memory
+		- it is used to synchronize with high-speed CPU and to inprove the performance
+		- Cache memory can only be accessed by CPU.
+		- it can be reserved part of main memory or storage device outside the CPU.
+		- it holds the data of the programm which are frequently used by the CPU.
+		- it make sure that the data is instanlty available for CPU. wenever CPU need this data.
+		- id doesn't require RAM  
+		- there are three types of Cache memory
+			1. L1: (4 parts of CPU- quad core CPU),Present inside,size: 2KB to 64KB
+			2. L2: it is avaialbe OutSide the CPU, Size: 256KB to 512 KB
+			3. L3: not present in all processor  but some High-end Processor may have this types of 				cache. this cache is used to enhance the performanvce, Size: 1MB to 8MB
+		(Note: Larger the size of cache memory, Slower will be the Speed)
+
+		WORKING OF CACHE MEMORY:
+		- when CPU need data , first of all it looks inside L1 cache. if it doesn't find anything in 			L1, it looks inside L2 cache.
+		- if again it doesn't find anything in L2 cache, it looks into L3 Cache
+		- if data is found in the cache meomry, Then it is known as cache hit. orl else if not founfd 			we called it as cache miss
+
+		Example:
+		 - when computer starts for the firsat time,or an application is opened for the first time, 		   data is not available in cache memory or in RAM.
+		- in this case the CPU gets the data directly from the HardDrive or SSD. 
+		- therafter when you start your computer or open an application , CPU can get that data from 		  cache memory or RAM
+
 	4. Registers(Temp Storage)
 
 3. RAM:
@@ -234,3 +317,31 @@ Primary Drive is C:, you can also divide themm into D:, E:, F: drive etc...
 - it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively
 - SMPS: transfer power from DC to AC or AC to DC
 
+
+*****************************************************************************************************
+
+[D] USB (Universal Serial Bus)
+
+******************************************************************************************************
+
+- there are different types of USB ports used to connect the peripheral devices to the computer
+
+1. USB 1.x: it has capcity to transfer a data with speed of 12MB/seconds (12MBPS)
+2. USB 2.0: it is high speed USB.
+	- it was introduced in 2000.
+	- it is an upgraded version of USB 1.1
+	- it has capacity to transfer speed of 480MB/seconds (480MBPS).
+	- but practically it is 280 MBPS
+	- it can consume 500mA of power
+	- Max length: 5 meter
+3. USB 3.0: its a supe speed USB
+	- it was discovered in Nov 2009.
+	- it is much improved version of USB 2.0
+	- it supports data transfer rate of 5 GB/Seconds (5GBPS).
+	- it can consume 900mA of power
+	- Max length: 3 meter
+4. USB 3.1: Also known as SuperSpeed+ 
+	- it was introduced in 2013.
+	- Its alatest version of USB protocol
+	- it has a great speed of data transfer of 10GB/Seconds (10GBPS).
+	
