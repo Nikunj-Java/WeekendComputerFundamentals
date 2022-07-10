@@ -1,0 +1,26 @@
+What is Operating System?
+
+- an operating system acts as an intermediatory between the user of a computer and computer hardware.
+- the purpose of an operating system is to provide an evironment in which user can execute programs conveniently and efficiently.
+- it is a software that manages computer hardware
+
+
+- Features of OS
+	A. CONVENINECE
+	B. EFFICIENT
+	C. ABILITY TO EVOLVE
+- It contains four Parts
+	A. MAIN MEMORY
+	B. PROCESSOR
+	C. SYSTEM BUS
+	D. I/O MODULE
+A. MAIN MEMORY:	it store data and programs tat can be lost when the system is tuned off. it is also known asVersatile memory
+
+B. PROCESSOR: it is an integrated circuit which performs the job of calculation
+
+C. SYSTEM BUS: it is responsible for communication between processors,main memory and input-output modules .
+
+D. I/O MODULES: the tatask of I/O module is to move the dta within the computer to its external Environment
+		- it  it controls the transfer of data from external device to the processor 
+		- STATUS: common status signals are BUSY or READY
+		- its a slow process
