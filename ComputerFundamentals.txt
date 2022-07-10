@@ -224,7 +224,7 @@ to print the data , when we print it is providing an output.
 	eg: External Hard Drive
 
 
-3. LOACL DRIVES:
+3. LOCAL DRIVES:
 ----------------
 - we can say that it is a local disk as well
 - Hard Drive(HDD) or SSD(Solid State Drive) which is connected to your computer
