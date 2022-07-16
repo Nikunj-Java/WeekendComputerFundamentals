@@ -1,0 +1,87 @@
+*********************************************************************************
+WHAT IS SCRUM IN AGILE??
+*********************************************************************************
+
+- SCRUM in an agile developement process focused on ways to manage task in team based develeopement conditions
+- there are three roles in it and their responsibilities are:
+	1. SCRUM MASTER:
+	----------------
+		- the scrum master can set up master team, arrange the meetings and remove the
+		  obstacles for the process
+		- scrum masters are the falicitator of scrum , the light weight agile framework with 
+		  a focus on time-boxed iteration called SPRINT
+		- the scrum master is SERVENT LEADER as the SCRUM guid puts it.
+		- good scrum master are commiteed to the scrum foundation
+		- but remian flexible and open to opportunities for the team to improve their 
+	   	  workflow
+		ROLES AND RESPONSIBILITIES:
+		---------------------------
+		a. STANDUPS: falicitate daily standups(for daily scrum) meetings as needed for 10-15 min
+		b. SPRINT PLANNING: Protect the team for over commiting and scope creep
+		c. SPRINT REVIEWS: participatr in the meeting and capture feedback
+		d. SPRINT RETROSPECTIVE: note areas of improvements and action items for future sprint
+		e. BOARD ADMINISTATION: work as administator of the scrum board. ensure that the cards
+		   (sticky notes) are upto date and use SCRUM TOOl- JIRA SOFTWARE
+		f. ONE-TO-ONE: Meets individually with team members and stackholders as needed
+	2. PRODUCT OWNER:
+	-----------------
+		- Product owner makes product backlog, prioritizing the delay is responsible for 
+		  distribution of functionality on each repetattion
+		ROLES AND RESPONSIBILITY:
+		-------------------------
+		a. manage product backlog
+		b. prioterize and order the productbacklog in the right manner so that the important
+		   task are given topmost priority
+		c. prioterize work items and product backlogs. this must be done inline with customer's
+		   vision and Goals
+		d. product owner ensure that product backlogs is communicated  clearly in all team members
+		e. the scrum team must have clarity on th product requirments and user expectations
+		f. must have leadership and Communication Skills
+		g. Maximise the value of product (Product Prepared in Short Time)
+		h. Effective Interepretation of Customer Requirement is done by Product Owner
+		i. Must act as Primary Point of Contact
+		j. Communicating Customer Vision to The team
+		k. Must have market industry Experience so that a product owner can anticipate Customer's
+		   needs.
+		l. Evaluation Progress - must monitor eac phase of development cycle  and can suggest the 
+		   changes if needed.
+
+	3. SCRUM TEAM:
+	--------------
+		- the team manages its work and organizes the work to complete the sprint or cycle
+		- SCRUM TEAM is also known as DEVELOPEMENT TEAM
+		- it is always small(3-6 team memebers)
+		- it is consisting of skilled and professional who do  the hands-on work of completing
+		  the task in scrum sprint.
+		- this means that developement team members can be engineers, designers,writters,
+		  anlysts, or any other role needed to reach sprint.
+		- this team dosen't just wait for orders; they usually colloborates to map out  goals and
+		  plans for achieving them
+		- not all developement team member will always have same responsibilities
+		- for eg: if you are updating a website you might have a front-end engineer, UX designer,
+		  CopyWritter and Marketing Professional and all working on the same scrum team
+		- the responsibility of developement team will also depends upon the goals of scrum team.
+
+***************************************************************************************************************
+ 			DIFFERENCE BETWEEN SCRUM MASTER AND PRODUCT OWNER
+***************************************************************************************************************
+		SCRUM MASTER				| 	PRODUCT OWNER
+---------------------------------------------------------------------------------------------------------------
+A. scrum master is an expert in agile practise		| A. product owner is around project
+B. scrum master ensures all messages and 		| B. product owner supports the team with updates
+   communication was done in right manner		|    and new change if required.
+---------------------------------------------------------------------------------------------------------------
+
+
+WHEN TO USE?
+--------------
+- When frequent chnages are required 
+- When highly qualified and experienece team is available
+- When customer is ready to have a meeting with software team all the time
+
+DISADVANTAGES:
+---------------
+- Due to the lack of formal documentations , it creates confusion and crucial decision taken througout 
+  various phases can be miinterpreted at any time by different team members
+- once the project is completed and developer allotted to another project, maintanace of the finished project
+  can become difficult task.
