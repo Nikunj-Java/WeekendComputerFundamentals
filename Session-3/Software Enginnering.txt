@@ -1,0 +1,93 @@
+***************************************************************************************************************
+SOFTWARE EVOLUTION
+***************************************************************************************************************
+- Whenever software is made it is made on the basis of following things
+	1. DOCUMENTATION 
+		- Enlist the requiremnets from client for a software
+	2. DEVELOPEMENT
+		- On the basis if requirements provided by client developer begins to start the developement 		  process.
+		- this process includes designing of UI ,Backend of the software,and Handling of Database too.
+	3. TESTING
+		- Once Software is ready, it is very important to test before it goes to the User end
+		- as a result developer uses some testing tools like JENKINS, DOCKER, KUBERNATES, TEST 		  	          NG,etc.,to do the testing and debuging
+	4. DEPLOYMENT:
+		- Once the testing is successfull developer Deploy the software and releases for end user use.
+	5. MAINTENANCE & UPDATES:
+		- it is very important to take feedback from the user and find out the bugs that software has
+		  not only that but some suggestion from the user that developer need to implement and for that 
+		  software needs regular update and maintenance which will improve quality and integrety of 
+		  software.
+
+- NECCESSITY OF SOFTWARE EVOLUTION
+	1. CHANGE IN REQUIREMENT WITH TIME
+	2. ENVIRONMENT CHANGE
+	3. ERRORS AND BUGS
+	4. SECURITY AND RISK
+	5. MUST HAVE NEW FUCNTIONALITY FEATURE
+
+***************************************************************************************************************
+STAGES OF SOFTWARE DEVELOPMENT LIFE CYCLE(SDLC)
+***************************************************************************************************************
+- It has five stages
+	1. RQUREMNET GATHERING
+		- gathering information from customer or from user
+		- engineer communicates with the client and end-user to know their idea and about the feature 
+		  of software
+	2. SOFTWARE DESIGN
+		- it is a process in which engineer transfer the requirement into working model
+		- it helps programmer in software coading
+		- it will make the process easy
+		- there are three types of SOFTWARE DESIGNING
+			A. ARCHITECTURAL DESIGN: Highest Version of system
+			B. HIGH-LEVEL DESIGN: focus on how system and component implemented
+			C. DETAILED DESIGN: it focus on the logical structure of each module
+	3. DEVELOPING PRODUCT
+		- it is crucial part of SDLC.
+		- it is also known as Implementation Phase
+	4. TESTING AND INTEGRATION
+		- in this stage we will integrates the module and will test the overall product by using 
+		  different technologies along with different tools
+	5. DEVELOPMENT AND MAINTENANCE
+		- when final product is deployed. we will do the maintenance of product for any feature update 
+		  and release of new feature.
+***************************************************************************************************************
+SOTWARE DEVELOPEMENT PROCESS (SDP)
+***************************************************************************************************************
+- It consisting of foru KEY Process
+1. SPECIFICATION
+2. DEVELOPMENT
+3. VALIDATION
+4. EVOLUTION
+	
+	
+	1. SPECIFICATION (SRS- SOFTWARE REQUIREMNT SPECIFICATION)
+	- it is a foundation od any software
+	- it contains the list of user requirements for a system as well as  detailed description of system
+	  requirement
+	- it contains the flow of software
+	- it explains that how the software will work.
+	- it helps developer to build fully functional software
+	2. DEVELOPEMENT:
+	- it is second phase of SDP.
+	- in this level developer developes a software accrding to the client's requirements
+	- it is totally based on Phase 1(SPECIFICATION)
+	3. VALIDATION:
+	- it third phase of SDP.
+	- it is process of checking whether the software product is upto the mark or not. in other words 
+	  product has high level requirement
+	- it is the process of checking the validity of the product
+	- it is validation of the actual and expeceted product.
+	4. EVOLUTION
+	- the terem Evolution it self it describs Developement.
+	- initially and then periodically updating a software for various reson is required to add a new 
+	  feature or to remove old feature or a bug, the evolution process is needed and it includes
+		a. CHANGE ANALYSIS
+		b. RELEAASE PLANNING
+		c. SYSTEM IMPLEMENTATION
+		d. RELEASE TO THE CUSTOMER
+	-NECCESSITY OF SOFTWARE EVOLUTION
+		a. change in requirement with time
+		b. Change in environment
+		c. Errors and Bugs
+		d. Security and Risk
+		e. Must have New Functionality and Feature.
