@@ -1,0 +1,59 @@
+***************************************************************************************************************
+SPIRAL MODEL
+***************************************************************************************************************
+- it is part of SDLC used for risk management
+- it is combination of iterative and waterfall model
+- it is used by software engineers and is favoured for large,expensive and complicate dprojects
+- if we will see the diagram of spiral model it look like a coil with many loops
+- the numbers of loops varies based on each projects and it is often design by project manager
+- each loop in spiral model is called as phase
+- the most important of this model is its ability to manage unknown risk after the project has commenced so,
+  creating protottype makes this feasible
+
+USE OF SPIRAL MODEL:
+--------------------
+- as the model is best used in large,expensive project. following are the uses
+	1. the project in which frequesnt releases are necessary
+	2. project in which changes may be required at anytime
+	3. long term projects that are not feasible due to altered economical priorities
+	4. medium to high risk projects
+	5. project in which cost and risk analysis is important
+	6. project must have prototyping stage
+	7. project with unclear or very complex requirement 
+
+PHASES OF SPIRAL MODEL:
+-------------------------
+- whenever we will look towards the spiral model, the radius of spiral represents the cost of the project
+  (radius increases cost also increases)
+- each phase begins with goal for design and ends when the developer or client revews the progress
+- Every phase can be broken into four quadrants
+	1. IDENTIFYING AND UNDERSTANDING REQUIREMENTS
+	2. PERFORMING RISK ANALYSIS
+	3. PROTOTYPING
+	4. EVALUATION OF SOFTWARE'S PERFORMANCE
+
+1. IDENTIFYING AND UNDERSTANDING REQUIREMENTS:
+----------------------------------------------
+- The phase begins with indentification and requirements 
+- the over all goal of the phase should be determined and all analyzed.
+- it is very important to also indentify alternative solution in case the attempted version fails
+
+2.PERFORMING RISK ANALYSIS:
+---------------------------
+- risk analysis is performed on all possible solution in order to find any faults .
+- this can be running over budget,area within the softwares that could be open to cycber attacks
+- each risk shpuld then be resolved using the most efficient strategy
+
+3.PROTOTYPING:
+- this is the stage where prototyping of working model is prepared
+- this step includes architectural design, desgning of modules, physics product design and final design
+- it takes the proposal that has been created in the first two quadrants and turns into software that can be
+  utilized
+
+4.EVALUATION OF SOFTWARE'S PERFORMANCE:
+---------------------------------------
+- in the fourth quadrant the test results of the newest version are evaluated .
+- this analysis sllows programmers to stop and understand what worked and didi't worked before profressin with
+  the new build.
+- at the end of this phase planning of next step/Phase begins and cycle repeats.
+- at the end of whole spiral, the software is finally deployed in its respective market. 
